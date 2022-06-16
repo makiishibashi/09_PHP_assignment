@@ -1,5 +1,5 @@
 # 卒業制作　カジサボ
-[https://makiishibashi.github.io/08_PHP_assingment/]
+[https://makiishibashi.github.io/09_PHP_assignment/]
 ## 家事の手順書作成画面
 # 苦労したところ
 画面をひとつJSで作り、どんな振る舞いにしたいのかやってみて、それをどうやってPHPで再現するのか考えた。いきなりPHPで出来ればいいが、頭で考えてることを一旦見える形（JS）にしないと、自分が何がしたいのかよくわかってなくて、余計な工程に時間がかかってしまう。
